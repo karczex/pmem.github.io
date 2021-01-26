@@ -68,8 +68,8 @@ table {
 /* basic styles */
 body {
 	box-sizing: border-box;
-	color:#000;
-	background: #fff;
+	color:#454545;
+	background: #EEEEEE;
 	font-size: 16px;
 	font-family: "Nimbus Sans L", "URW Gothic L", Verdana, Tahoma,
 		Helvetica, sans-serif;
